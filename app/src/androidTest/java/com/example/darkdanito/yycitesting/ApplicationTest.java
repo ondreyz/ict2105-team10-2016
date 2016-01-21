@@ -1,4 +1,4 @@
-package app.sitteam10.com.helloworld;
+package com.example.darkdanito.yycitesting;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
